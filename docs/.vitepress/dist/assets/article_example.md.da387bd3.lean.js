@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as t,N as a}from"./chunks/framework.cd9250a1.js";const m=JSON.parse('{"title":"Spring 生命周期","description":"","frontmatter":{},"headers":[],"relativePath":"article/example.md"}'),n={name:"article/example.md"},i=a("",7),o=[i];function s(d,l,c,h,p,_){return t(),r("div",null,o)}const b=e(n,[["render",s]]);export{m as __pageData,b as default};

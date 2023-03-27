@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as t,N as a}from"./chunks/framework.cd9250a1.js";const m=JSON.parse('{"title":"Spring 依赖注入","description":"","frontmatter":{},"headers":[],"relativePath":"record/temp.md"}'),o={name:"record/temp.md"},n=a("",7),i=[n];function s(d,c,l,p,h,_){return t(),r("div",null,i)}const f=e(o,[["render",s]]);export{m as __pageData,f as default};
