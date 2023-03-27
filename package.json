@@ -1,0 +1,16 @@
+{
+  "name": "mass-docs",
+  "version": "1.0.0",
+  "description": "mass-docs",
+  "main": "index.js",
+  "author": "mass",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.61"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  }
+}
